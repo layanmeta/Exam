@@ -41,6 +41,6 @@ namespace ExamPart2
             Console.Write("");
             //code amendment 
         }
-        
+
     }
 }
