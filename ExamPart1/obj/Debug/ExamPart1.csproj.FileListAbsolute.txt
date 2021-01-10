@@ -1,0 +1,6 @@
+C:\Users\layan\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe.config
+C:\Users\layan\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.exe
+C:\Users\layan\source\repos\ExamPart1\ExamPart1\bin\Debug\ExamPart1.pdb
+C:\Users\layan\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.csprojAssemblyReference.cache
+C:\Users\layan\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.exe
+C:\Users\layan\source\repos\ExamPart1\ExamPart1\obj\Debug\ExamPart1.pdb
